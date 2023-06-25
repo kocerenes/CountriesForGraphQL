@@ -1,4 +1,4 @@
-package com.plcoding.graphqlcountriesapp.ui.theme
+package com.plcoding.graphqlcountriesapp.presentation.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
